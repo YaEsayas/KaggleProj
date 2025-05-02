@@ -43,7 +43,7 @@ Results:
 ●	Most useful features: raisedhands, VisITedResources, and Discussion
 ●	No need to fix class imbalance — it wasn't a big issue
 ●	The model could tell the difference between low, middle, and high-performing students pretty well
-⚙ How to Use This
+ How to Use This
 1.	Load the dataset: xAPI-Edu-Data.csv
 2.	Open the notebook and run each cell
 3.	You only need basic Python tools:
