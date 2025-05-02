@@ -55,7 +55,7 @@ Results:
 ●	Test other models like logistic regression
 ●	Try turning this into a yes/no prediction: High vs Not High
 
- Thanks
-Dataset from: xAPI-Edu-Data on Kaggle
-
+ Thanks and heres the dataset
+ xAPI-Edu-Data on Kaggle
+https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
 
